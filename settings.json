@@ -1,0 +1,4 @@
+{
+    // Pythonプロジェクトを作成したら、この設定を加えること。
+    "python.pythonPath": "C:/Users/daiko/workspace/SearchFileApp/.venv/Scripts/python.exe"
+}
